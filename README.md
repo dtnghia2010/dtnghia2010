@@ -24,9 +24,6 @@ I'm a passionate **Hardware Developer** with a strong foundation in **Computer E
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dtnghia2010&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-![Today's Meme](https://meme-api.com/gimme/wholesomememes/2)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=dtnghia2010&icon=0&color=0)](https://visitcount.itsvg.in)
 
