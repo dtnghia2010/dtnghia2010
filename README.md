@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a passionate **Software Developer** with a strong foundation in **Computer Engineering**. My journey in technology is driven by curiosity and a commitment to continuous learning.
+I'm a passionate **Hardware Developer** with a strong foundation in **Computer Engineering**. My journey in technology is driven by curiosity and a commitment to continuous learning.
 
 ## 🌱 Currently Learning
 
