@@ -1,5 +1,11 @@
 # 💫 About Me:
-🌱 I’m currently learning Machine Learning/Deep learning<br>⚡ Fun fact: I like offline games
+
+I'm a passionate **Software Developer** with a strong foundation in **Computer Engineering**. My journey in technology is driven by curiosity and a commitment to continuous learning.
+
+## 🌱 Currently Learning
+
+- Exploring **Machine Learning** algorithms and their applications in predictive analytics.
+- Diving into **Cloud Computing** with a focus on AWS services.
 
 
 ## 🌐 Socials:
@@ -19,7 +25,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=dtnghia2010&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://meme-api.com/gimme/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dtnghia2010&icon=0&color=0)](https://visitcount.itsvg.in)
